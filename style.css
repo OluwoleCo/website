@@ -15,6 +15,16 @@ body {
 	margin-top: 9%;
 }
 
+.heading {
+	color: rgba(0,0,0,.6);
+	font-size: 15px;
+}
+
+.name {
+	color: rgba(19,29,80,1);
+	font-family: 'Manuale',serif;
+}
+
 .social-image{
 	border-left: 1px dashed rgba(0, 85, 169, 0) ;
 	padding-left: 10px;
@@ -96,7 +106,7 @@ h1{
 .description{
 	color: #373737;
 	font-size: 20px;
-	line-height: 140%;
+	line-height: 320%;
 }
 
 .tooltip{
